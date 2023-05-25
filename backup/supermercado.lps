@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="supermercado.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="108"/>
+        <CursorPos X="52" Y="125"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="12">
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="77" Column="19" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="97" Column="21" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="91" Column="22" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="118" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="100" Column="12" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="99" Column="56" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="112" Column="9" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="110" Column="33" TopLine="93"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="107" Column="43" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="15" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="67" Column="43" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="73" Column="32" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="supermercado.lpr"/>
+        <Caret Line="67" Column="99" TopLine="56"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
